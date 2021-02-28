@@ -1,0 +1,52 @@
+
+.card.text-center {
+    height: 100%;
+    width: 50%;
+    margin-top: 45px !important;
+    margin:auto;
+   
+}
+.button a {
+    padding: 10px 25px;
+    font-size: 25px;
+    background: #056c00;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 4px 0px #5cff09;
+    text-transform: capitalize;
+    cursor: pointer;
+    overflow: hidden;
+} 
+.button a:hover{
+    box-shadow: none;
+    color: black;
+}
+.button {
+    text-align: center;
+    margin-top: 10%;
+    height: 100%;
+    width: 100%;
+}
+.icon i {
+    font-size: 69px;
+    color: darkgrey;
+}
+.card-tex {
+    margin-top: 15px;
+    font-size: 22px;
+    margin-left: 12px;
+    padding: 0px 5px;
+}
+
+.authore-name.mb-4 {
+    text-align: end;
+    font-size: 21px;
+    color: green;
+    font-weight: bold;
+}
+
+
+
+
+
